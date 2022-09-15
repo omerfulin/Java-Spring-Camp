@@ -12,7 +12,6 @@ public class Main {
 		System.out.println(altMetin);
 		
 		int vade = 12;
-		int vade1 = 13;
 		
 		double dolarDun = 18.15;
 		double dolarBugun = 18.15;
