@@ -14,6 +14,7 @@ Camp details:
 ### 1. Day - Project
 
 * 1.[Intro](https://github.com/omerfulin/Java-Spring-Camp/tree/main/intro)
+* 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day01Homework/src)
 
 What I learned
 - variables
