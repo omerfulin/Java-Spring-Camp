@@ -11,7 +11,7 @@ Camp details:
 
 ## <p align="center">Projects</p> 
 
-### 1. Day - Project
+### 1. Day Project
 
 * 1.[Intro](https://github.com/omerfulin/Java-Spring-Camp/tree/main/intro)
 * 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day01Homework/src)
@@ -27,7 +27,9 @@ Screenshot of output:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50428829/190389148-48cfcbcd-ef92-45ad-a9d7-264a52f6b580.png" width="800" > </p>
 
-### 2. Day - Project
+---
+
+### 2. Day Project
 
 
 
