@@ -36,6 +36,8 @@ Screenshot of output:
 What I learned
 - Java OOP
 - Inheritance 
+- getters
+- setters
 
 
 
