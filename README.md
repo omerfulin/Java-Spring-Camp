@@ -31,5 +31,12 @@ Screenshot of output:
 
 ### 2. Day Project
 
+* 1.[OOP](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oop1)
+
+What I learned
+- Java OOP
+- Inheritance 
+
+
 
 
