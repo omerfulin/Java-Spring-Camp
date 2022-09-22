@@ -55,6 +55,7 @@ public class Main {
 		Customer[] customers = {individualCustomer,corporateCustomer};
 		
 		System.out.println(individualCustomer.getCustomerNumber());
+		System.out.println(individualCustomer.getFirstName());
 	}
 
 }
