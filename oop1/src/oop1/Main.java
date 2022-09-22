@@ -54,7 +54,7 @@ public class Main {
 		
 		Customer[] customers = {individualCustomer,corporateCustomer};
 		
-		
+		System.out.println(individualCustomer.getId());
 	}
 
 }
