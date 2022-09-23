@@ -61,7 +61,7 @@ public class Main {
 		System.out.println(individualCustomer.getId());
 		System.out.println(individualCustomer.getPhone());
 		
-		System.out.println("-------------------------");
+		System.out.println("---------------------------");
 		
 		System.out.println(corporateCustomer.getCompanyName());
 		System.out.println(corporateCustomer.getCustomerNumber());
