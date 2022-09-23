@@ -29,12 +29,13 @@ public class Main {
 		
 		Product[] products = {product1,product2,product3};
 
-		System.out.println("<ul>");
+
 		for (Product product : products) {
-			System.out.println("<li>" + product.getName() + "</li>");
+			System.out.println(product.getName() );
 			
 		}
-		System.out.println("</ul>");
+		
+		System.out.println("--------------------------");
 		
 		IndividualCustomer individualCustomer = new IndividualCustomer();
 		individualCustomer.setId(1);
@@ -56,6 +57,17 @@ public class Main {
 		
 		System.out.println(individualCustomer.getCustomerNumber());
 		System.out.println(individualCustomer.getFirstName());
+		System.out.println(individualCustomer.getLastName());
+		System.out.println(individualCustomer.getId());
+		System.out.println(individualCustomer.getPhone());
+		
+		System.out.println("---------------------------");
+		
+		System.out.println(corporateCustomer.getCompanyName());
+		System.out.println(corporateCustomer.getCustomerNumber());
+		System.out.println(corporateCustomer.getId());
+		System.out.println(corporateCustomer.getTaxNumber());
+		System.out.println(corporateCustomer.getPhone());
 	}
 
 }
