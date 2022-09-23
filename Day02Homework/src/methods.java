@@ -2,13 +2,11 @@ public class methods {
 
 	public static void main(String[] args) {
 		sayiBulmaca();
-		mesajVer();
-	}	
+	}
 
 	public static void sayiBulmaca() {
-		int[] sayilar = { 1, 2, 5, 7, 9, 0 };
-
-		int aranacak = 6;
+		int[] sayilar = new int[] { 1, 2, 5, 7, 9, 0 };
+		int aranacak = 5;
 		boolean varMi = false;
 
 		for (int sayi : sayilar) {
@@ -17,18 +15,19 @@ public class methods {
 				break;
 			}
 		}
-		
-		String mesaj ="";
-		if (varMi) {	
-			mesaj = "Sayı mevcuttur: " + aranacak;
+
+		String mesaj = " ";
+		if (varMi) {
+			mesaj = "sayi mevcuttur: " + aranacak;
 			mesajVer(mesaj);
 		} else {
-			mesajVer("Sayı mevcuttur Değildir : " + aranacak);
+			System.out.println("sayi mecvut değil" + aranacak);
 		}
 
-	}	
+	}
+
 	public static void mesajVer(String mesaj) {
 		System.out.println(mesaj);
-		
+
 	}
-}	
+}
