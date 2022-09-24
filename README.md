@@ -32,6 +32,7 @@ Screenshot of output:
 ### 2. Day Project
 
 * 1.[OOP](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oop1/src/oop1)
+* 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day02Homework/src)
 
 What I learned
 - Java OOP
