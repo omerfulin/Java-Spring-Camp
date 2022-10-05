@@ -22,6 +22,7 @@ public class methods2 {
 	public static void guncelle() {
 		System.out.println("Güncelledi");
 		
+		
 	}
 	
 	public static int topla(int sayi1,int sayi2) {
