@@ -42,7 +42,6 @@ What I learned
 - Methods
 - Encapsulation
 - Constructors
-- Polymorphısm
 
 Screenshot of output:,
 <p align="center">Output: OOP1</p>
