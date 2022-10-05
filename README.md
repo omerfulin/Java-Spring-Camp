@@ -32,6 +32,7 @@ Screenshot of output:
 ### 2. Day Project
 
 * 1.[OOP](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oop1/src/oop1)
+* 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day02Homework/src)
 
 What I learned
 - Java OOP
@@ -47,6 +48,11 @@ Screenshot of output:,
 <p align="center">Output: OOP1</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50428829/191868193-651b8bc3-5b35-412a-aca4-8fab03dc860e.png" width="600" > </p>
+
+---
+
+### 3.Day Project
+
 
 
 
