@@ -43,7 +43,7 @@ What I learned
 - Encapsulation
 - Constructors
 
-Screenshot of output:,
+Screenshot of output:
 <p align="center">Output: OOP1</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50428829/191868193-651b8bc3-5b35-412a-aca4-8fab03dc860e.png" width="600" > </p>
@@ -61,6 +61,8 @@ What I learned
 - Polymorphism
 - Class & Interface 
 
+Screenshot of output:
+<p align="center">Output: oopWithNLayeredApp</p>
 
 
 
