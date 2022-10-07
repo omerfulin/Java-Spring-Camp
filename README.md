@@ -52,6 +52,15 @@ Screenshot of output:,
 
 ### 3.Day Project
 
+* 1.[oopWithNLayeredApp]
+* 2.[Homework]
+
+What I learned
+- Java OOP 2
+- Packages
+- Polymorphism
+- Class & Interface 
+
 
 
 
