@@ -32,7 +32,7 @@ Screenshot of output:
 ### 2. Day Project
 
 * 1.[OOP](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oop1/src/oop1)
-* 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day02Homework/src)
+* 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day02Homework)
 
 What I learned
 - Java OOP
@@ -42,9 +42,8 @@ What I learned
 - Methods
 - Encapsulation
 - Constructors
-- Polymorphısm
 
-Screenshot of output:,
+Screenshot of output:
 <p align="center">Output: OOP1</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50428829/191868193-651b8bc3-5b35-412a-aca4-8fab03dc860e.png" width="600" > </p>
@@ -53,6 +52,17 @@ Screenshot of output:,
 
 ### 3.Day Project
 
+* 1.[oopWithNLayeredApp]
+* 2.[Homework]
+
+What I learned
+- Java OOP 2
+- Packages
+- Polymorphism
+- Class & Interface 
+
+Screenshot of output:
+<p align="center">Output: oopWithNLayeredApp</p>
 
 
 
