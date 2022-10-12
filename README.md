@@ -48,6 +48,11 @@ Screenshot of output:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/50428829/191868193-651b8bc3-5b35-412a-aca4-8fab03dc860e.png" width="600" > </p>
 
+<p align="center">Output: Homework</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/50428829/195349887-82150fca-5b30-4948-bfb9-d861f3702c20.png" width="600" > </p>
+
+
 ---
 
 ### 3.Day Project
