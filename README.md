@@ -57,7 +57,7 @@ Screenshot of output:
 
 ### 3.Day Project
 
-* 1.[oopWithNLayeredApp]
+* 1.[oopWithNLayeredApp](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oopWithNLayeredApp)
 * 2.[Homework]
 
 What I learned
