@@ -59,6 +59,7 @@ Screenshot of output:
 
 * 1.[oopWithNLayeredApp](https://github.com/omerfulin/Java-Spring-Camp/tree/main/oopWithNLayeredApp)
 * 2.[Homework](https://github.com/omerfulin/Java-Spring-Camp/tree/main/Day03Homework)
+* 3.[Homework Demo](https://github.com/omerfulin/Java-Spring-Camp/tree/main/kodlamaioDemo)
 
 What I learned
 - Java OOP 2
